@@ -1,0 +1,4 @@
+flashtext==2.7
+nltk==3.7
+pke==2.0.0
+streamlit==1.8.0
